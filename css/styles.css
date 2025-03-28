@@ -166,7 +166,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office\ 1.jpg);
+    url(../images/people-office1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -492,10 +492,7 @@ img {
 }
 
 .soc-container {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  width: 208px;
+  margin-right: 120px;
 }
 
 .footer-soc-descr {
@@ -504,7 +501,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  margin-right: 112px;
   margin-bottom: 16px;
 }
 
